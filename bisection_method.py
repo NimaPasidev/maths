@@ -72,3 +72,6 @@ def bisection_table():
 # Run the program
 if __name__ == "__main__":
     bisection_table()
+
+
+#pasindu nimsara
